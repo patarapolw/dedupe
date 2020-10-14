@@ -1,3 +1,5 @@
 # dedupe
 
-Duplicate finder
+Duplicate file finder.
+
+Please use human judgement to reduce false positives.
